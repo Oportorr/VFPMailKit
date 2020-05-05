@@ -1,0 +1,15 @@
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.csprojAssemblyReference.cache
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.csproj.CoreCompileInputs.cache
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\VFPMailKit.exe
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\VFPMailKit.pdb
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\MailKit.dll
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\MimeKit.dll
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\BouncyCastle.Crypto.xml
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\MailKit.xml
+D:\C#TOOLS\VFPMailKit\VFPMailKit\bin\Debug\MimeKit.xml
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.csproj.CopyComplete
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.exe
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.pdb
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.TestEmail.resources
+D:\C#TOOLS\VFPMailKit\VFPMailKit\obj\Debug\VFPMailKit.csproj.GenerateResource.cache
