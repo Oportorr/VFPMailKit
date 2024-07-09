@@ -3,3 +3,10 @@
 .vs/VFPMailKit/v15/Server/sqlite3/storage.ide
 .vs/VFPMailKit/v15/Server/sqlite3/storage.ide-shm
 .vs/VFPMailKit/v15/Server/sqlite3/storage.ide-wal
+/EmailSender/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/EmailSender/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+/EmailSender/obj/Debug/EmailSender.csproj.CoreCompileInputs.cache
+/EmailSender/obj/Debug/EmailSender.csproj.FileListAbsolute.txt
+/EmailSender/obj/Debug/EmailSender.csproj.GenerateResource.cache
+/VFPMailKit/obj/Debug/DesignTimeResolveAssemblyReferences.cache
